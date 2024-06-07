@@ -8,7 +8,7 @@
 ### 회원가입, 로그인화면
 <img width='500' src='docs/images/1.png'>
 
-### 스텐다드 회원 화면 선택
+### 스텐다드 회원 선택
 <img width='500' src='docs/images/s1.png'>
 
 ### 스텐다드 차트 노출
